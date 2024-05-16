@@ -6,3 +6,4 @@ flask
 pypdf
 chromadb
 -e .
+python-dotenv
